@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .cuadrado {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  #cuadrado1 {
+    background-color: #FF5733;
+  }
+  
+  #cuadrado2 {
+    background-color: #33FF57;
+  }
+  
+  #cuadrado3 {
+    background-color: #5733FF;
+  }
